@@ -9,8 +9,13 @@ build:
   os: ubuntu-20.04
   tools:
     python: "3.11"
+  install-sphinx: false
 
-# Build documentation in the "docs/" directory with Sphinx
+  commands:
+    - python -m pip install --upgrade pip setuptools
+    - python -m pip install sphinx sphinx_rtd_theme
+
+      # Build documentation in the "docs/" directory with Sphinx
 sphinx:
    configuration: source/conf.py
 
