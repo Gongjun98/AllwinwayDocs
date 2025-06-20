@@ -9,7 +9,6 @@ build:
   os: ubuntu-20.04
   tools:
     python: "3.11"
-  install-sphinx: false
 
   commands:
     - python -m pip install --upgrade pip setuptools
