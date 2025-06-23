@@ -11,7 +11,11 @@ Welcome to AllwinwayDocs
    :caption: Contents:
 
    about
-   info
+   allwinner/contents
+   amlogic/contents
+   espressif/contents
+   hisilicon/contents
+   rockchip/contents
 
 Indices and tables
 ==================
