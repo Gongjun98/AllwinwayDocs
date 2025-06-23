@@ -15,6 +15,23 @@ release = 'v1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 #extensions = ['myst_parser','sphinx_markdown_tables']
+extensions = [
+    'myst_parser',
+    "sphinxcontrib.mermaid",
+    "sphinx_copybutton",
+]
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
+
+myst_enable_extensions = [
+    "tasklist",
+    "deflist",
+    "dollarmath",
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
