@@ -14,11 +14,12 @@ documentation for details.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-allwinner/contents
-amlogic/contents
-espressif/contents
-hisilicon/contents
-rockchip/contents
+
+	allwinner/contents
+	amlogic/contents
+	espressif/contents
+	hisilicon/contents
+	rockchip/contents
 
 Indices and tables
 ==================
