@@ -9,7 +9,8 @@ Welcome to AllwinwayDocs
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   about.rst
+   
+   info
 
 Indices and tables
 ==================
