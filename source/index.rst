@@ -9,6 +9,7 @@ Welcome to AllwinwayDocs
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
+
    about
    info
 
