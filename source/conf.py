@@ -17,8 +17,9 @@ release = 'v1.0'
 #extensions = ['myst_parser','sphinx_markdown_tables']
 extensions = [
     'myst_parser',
+    'sphinx_markdown_tables'
     #"sphinxcontrib.mermaid",
-    "sphinx_copybutton",
+    #"sphinx_copybutton",
 ]
 
 source_suffix = {
