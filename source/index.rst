@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to AllwinwayDocs documentation
+Welcome to AllwinwayDocs
 ===========================
 
 Add your content using ``reStructuredText`` syntax. See the
@@ -23,8 +23,8 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-allwinner
-amlogic
-espressif
-hisilicon
-rockchip
+allwinner/contents
+amlogic/contents
+espressif/contents
+hisilicon/contents
+rockchip/contents
