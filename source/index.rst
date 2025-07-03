@@ -10,7 +10,7 @@ Welcome to AllwinwayDocs
    :maxdepth: 2
    :caption: Contents:
 
-   全志/index.rst
+   ȫ־/index.rst
    about
 
 Indices and tables

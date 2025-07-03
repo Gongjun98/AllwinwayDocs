@@ -6,6 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+source_encoding = 'utf-8-sig'
 project = 'AllwinwayDocs'
 copyright = '2025, Allwinway'
 author = 'Allwinway'
