@@ -10,7 +10,7 @@ Welcome to AllwinwayDocs
    :maxdepth: 2
    :caption: Contents:
 
-   ȫ־/index
+   allwinner/index
    about
 
 Indices and tables
