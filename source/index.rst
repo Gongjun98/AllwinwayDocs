@@ -7,15 +7,12 @@ Welcome to AllwinwayDocs
 ===========================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
    about
-   allwinner/contents
-   amlogic/contents
-   espressif/contents
-   hisilicon/contents
-   rockchip/contents
+   */*
+
 
 Indices and tables
 ==================
