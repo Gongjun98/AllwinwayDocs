@@ -53,7 +53,7 @@ import sys
 print(sys.executable)
 
 # Using Package for ZH
-'preamble' : r'''
+{'preamble' : r'''
 \usepackage{ctex}
 ''',
 }
