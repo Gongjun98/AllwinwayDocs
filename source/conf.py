@@ -51,3 +51,9 @@ html_static_path = ['_static']
 
 import sys
 print(sys.executable)
+
+# Using Package for ZH
+'preamble' : r'''
+\usepackage{ctex}
+''',
+}
