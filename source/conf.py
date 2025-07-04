@@ -5,8 +5,6 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-
-source_encoding = 'utf-8-sig'
 project = 'AllwinwayDocs'
 copyright = '2025, Allwinway'
 author = 'Allwinway'
@@ -14,7 +12,7 @@ release = 'v1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-
+source_encoding = 'utf-8-sig'
 #extensions = ['myst_parser','sphinx_markdown_tables']
 extensions = [
     'myst_parser',
