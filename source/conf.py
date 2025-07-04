@@ -12,7 +12,7 @@ release = 'v1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-source_encoding = 'utf-8-sig'
+
 #extensions = ['myst_parser','sphinx_markdown_tables']
 extensions = [
     'myst_parser',
@@ -35,7 +35,7 @@ myst_enable_extensions = [
 
 templates_path = ['_templates']
 exclude_patterns = []
-
+source_encoding = 'utf-8-sig'
 language = 'zh_CN'
 
 # -- Options for HTML output -------------------------------------------------
@@ -46,12 +46,8 @@ import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_static_path = ['_static']
+html_search_language = 'zh'
 
 import sys
 print(sys.executable)
 
-# Using Package for ZH
-{'preamble' : r'''
-\usepackage{ctex}
-''',
-}
