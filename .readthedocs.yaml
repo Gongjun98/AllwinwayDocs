@@ -9,6 +9,10 @@ build:
   os: ubuntu-20.04
   tools:
     python: "3.11"
+  environment:
+    LANG: "en_US.UTF-8"
+    LC_ALL: "en_US.UTF-8"
+    FORCE_REBUILD: "true"
 
   commands:
     #- python -m pip install --upgrade pip setuptools
