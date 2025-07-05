@@ -10,7 +10,6 @@ Welcome to AllwinwayDocs
    :maxdepth: 2
    :caption: Contents:
 
-   全志/index
    allwinner/index
    about
 
