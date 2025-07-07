@@ -51,7 +51,7 @@ A10裸眼3D智能通话平板方案
 
 .. image:: ../image/SDC19052.jpg
 
-.. image:: ../image/SDC19053.jpg
+.. image:: ./SDC19053.png
 
 
 
