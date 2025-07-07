@@ -14,7 +14,7 @@ build:
     - python -m pip install sphinx sphinx_rtd_theme sphinx-markdown-tables myst-parser
     - sphinx-build -b html source $READTHEDOCS_OUTPUT/html
       # Build documentation in the "docs/" directory with Sphinx
-
+  no_cache: true
 sphinx:
    configuration: source/conf.py
 
