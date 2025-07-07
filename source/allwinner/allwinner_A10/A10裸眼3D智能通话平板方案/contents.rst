@@ -43,11 +43,12 @@ A10裸眼3D智能通话平板方案
 
 20、整机按照工业级IP54标准设计，防水、防尘、防摔、防静电；
 
-.. image:: ./SDC19046.JPG
-.. image:: ./SDC19047.JPG
-.. image:: ./SDC19052.JPG
-.. image:: ./SDC19053.JPG
-.. image:: ./ID图片.jpg
+.. image::./ID图片.jpg
+.. image::./SDC19046.JPG
+.. image::./SDC19047.JPG
+.. image::./SDC19052.JPG
+.. image::./SDC19053.JPG
+
 
 
 商务联络

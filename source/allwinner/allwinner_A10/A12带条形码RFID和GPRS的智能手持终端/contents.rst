@@ -1,5 +1,5 @@
 A12带条形码RFID和GPRS的智能手持终端方案
-===================================
+====================================
 
 以下为我公司设计的全志A12带条形码RFID和GPRS的智能手持终端方案，接口功能如下：
 
@@ -43,9 +43,9 @@ A12带条形码RFID和GPRS的智能手持终端方案
 
 20、整机按照工业级IP54标准设计，防水、防尘、防摔、防静电；
 
-.. image:: ./A12带条形码RFID和GPRS的智能手持终端_ID.png
-.. image:: ./A12带条形码RFID和GPRS的智能手持终端_TOP.JPG
-.. image:: ./A12带条形码RFID和GPRS的智能手持终端_BOTTOM.JPG
+.. image::./A12带条形码RFID和GPRS的智能手持终端_ID.png
+.. image::./A12带条形码RFID和GPRS的智能手持终端_TOP.JPG
+.. image::./A12带条形码RFID和GPRS的智能手持终端_BOTTOM.JPG
 
 
 
