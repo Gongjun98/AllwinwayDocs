@@ -45,6 +45,7 @@ language = 'zh_CN'
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 html_static_path = ['_static']
+html_extra_path = ['.']  # 确保根目录被包含
 html_search_language = 'zh'
 
 import sys
