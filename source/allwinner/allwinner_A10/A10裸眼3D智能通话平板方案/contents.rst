@@ -48,15 +48,15 @@ A10裸眼3D智能通话平板方案
 22、采用8层板，由专业人士精心设计，性能稳定可靠；
 
 
-.. image:: /allwinner/allwinner_A10/image/ID.png
+.. image:: ./ID.png
 
-.. image:: /allwinner/allwinner_A10/image/SDC19047.png
+.. image:: ./SDC19047.png
 
-.. image:: /allwinner/allwinner_A10/image/SDC19046.png
+.. image:: ./SDC19046.png
 
-.. image:: /allwinner/allwinner_A10/image/SDC19052.png
+.. image:: ./SDC19052.png
 
-.. image:: /allwinner/allwinner_A10/image/SDC19053.png
+.. image:: ./SDC19053.png
 
 
 
