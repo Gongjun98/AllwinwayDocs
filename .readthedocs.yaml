@@ -10,7 +10,7 @@ build:
   tools:
     python: "3.11"
   commands:
-    - rm -rf docs/build  
+    - rm -rf $READTHEDOCS_OUTPUT 
     #- python -m pip install --upgrade pip setuptools
     - python -m pip install sphinx sphinx_rtd_theme sphinx-markdown-tables myst-parser
     - sphinx-build -b html source $READTHEDOCS_OUTPUT/html
