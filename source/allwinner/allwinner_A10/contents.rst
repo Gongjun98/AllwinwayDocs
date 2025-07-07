@@ -7,7 +7,7 @@
   :maxdepth: 2
   :numbered:
   
-  A10裸眼3D智能通话平板方案/contents
+  A10裸眼3D智能通话平板方案/content
   A12带条形码RFID和GPRS的智能手持终端/文字描述
 
 
