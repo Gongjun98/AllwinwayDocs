@@ -1,7 +1,7 @@
 A10裸眼3D智能通话平板方案
 =========================
 
-全志A10裸眼3D/3G通话/GPS智能平板电脑全套方案，接口功能如下：
+接口功能如下：
 
 1、全志A10，ARM-COTEX A8单核；
 
@@ -49,8 +49,8 @@ A10裸眼3D智能通话平板方案
 
 
 .. image:: ./ID.png
-.. image:: ./SDC19046.png
 .. image:: ./SDC19047.png
+.. image:: ./SDC19046.png
 .. image:: ./SDC19052.png
 .. image:: ./SDC19053.png
 

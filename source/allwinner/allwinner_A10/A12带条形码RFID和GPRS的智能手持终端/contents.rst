@@ -44,12 +44,8 @@ A12带条形码RFID和GPRS的智能手持终端方案
 20、整机按照工业级IP54标准设计，防水、防尘、防摔、防静电；
 
 .. image:: ./A12带条形码RFID和GPRS的智能手持终端_ID.png
-
-.. image:: ./A12带条形码RFID和GPRS的智能手持终端_TOP.JPG
-
-.. image:: ./A12带条形码RFID和GPRS的智能手持终端_BOTTOM.JPG
-
-
+.. image:: ./A12带条形码RFID和GPRS的智能手持终端_TOP.png
+.. image:: ./A12带条形码RFID和GPRS的智能手持终端_BOTTOM.png
 
 商务联络
 本公司为专业的全志方案公司，专门从事全志平台的平板电脑、TV BOX、广告机和游戏机等方案开发；
