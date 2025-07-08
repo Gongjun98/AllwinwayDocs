@@ -9,10 +9,11 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.10"
+  apt_packages:
+    - git-lfs
   commands:
     #- python -m pip install --upgrade pip setuptools
-    - apt-get install -y git-lfs
-    - git lfs install
+    - git lfs install --skip-repo
     - git lfs pull
     - python -m pip install sphinx sphinx_rtd_theme sphinx-markdown-tables myst-parser
     - sphinx-build -b html source $READTHEDOCS_OUTPUT/html
