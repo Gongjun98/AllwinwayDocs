@@ -76,6 +76,6 @@ QQ：25385895
 
 Email：25385895@qq.com
 
-:numref: 'About'
+.. numref: 'About'
 
 
