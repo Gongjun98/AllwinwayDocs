@@ -8,7 +8,8 @@
   
   A20_广告机_STD5/contents
   H2_医疗用蓝牙数据采集器板卡方案1/contents
-
+  A20_3G广告机YUESHI/contents
+  A20_EBOX_STD5_V13/contents
 
 
 
