@@ -19,7 +19,7 @@ build:
       - ./git-lfs install
       - ./git-lfs fetch
       - ./git-lfs checkout
-      - python -m pip install sphinx sphinx_rtd_theme sphinx-markdown-tables myst-parser
+      - python3 -m pip install sphinx sphinx_rtd_theme sphinx-markdown-tables myst-parser
       - sphinx-build -b html source $READTHEDOCS_OUTPUT/html
 
 sphinx:
