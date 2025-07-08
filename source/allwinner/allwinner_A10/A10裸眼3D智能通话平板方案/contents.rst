@@ -76,6 +76,5 @@ QQ：25385895
 
 Email：25385895@qq.com
 
-‘About’
-
+https://allwinwaydocs.readthedocs.io/zh-cn/latest/about.html#about
 
