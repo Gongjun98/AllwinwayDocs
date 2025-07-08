@@ -14,3 +14,5 @@
   A20_LED广告幕墙主控板方案/contents
   A20_农业机械监测主控板卡方案/contents
   A20_印刷机主控板方案2/contents
+  A20_可视对讲门铃室内机方案2/contents
+  A20_可视对讲门铃室内机方案3/contents
