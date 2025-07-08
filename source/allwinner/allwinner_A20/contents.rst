@@ -10,6 +10,8 @@
   H2_医疗用蓝牙数据采集器板卡方案1/contents
   A20_3G广告机YUESHI/contents
   A20_EBOX_STD5_V13/contents
+  A20_POE供电VOIP电话板卡方案/contents
+  A20_LED广告幕墙主控板方案/contents
 
 
 
