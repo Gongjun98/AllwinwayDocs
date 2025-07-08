@@ -58,22 +58,4 @@ A10裸眼3D智能通话平板方案
 
 .. image:: ./SDC19053.png
 
-
-
-商务联络
-
-本公司为专业的全志方案公司，专门从事全志平台的平板电脑、TV BOX、广告机和游戏机等方案开发；
-
-全志公司的A10、A12、A13、A20、A23、A31S和A31芯片平台，我司都有成熟的产品方案；
-
-接受各种核心板、整板的硬件定制，驱动程序开发和安卓系统裁剪，欢迎咨询！
-
-联系人： 龚先生
-
-电话：13554705316
-
-QQ：25385895
-
-Email：25385895@qq.com
-
-`about <https://allwinwaydocs.readthedocs.io/zh-cn/latest/about.html#about>`_
+`Detail About <https://allwinwaydocs.readthedocs.io/zh-cn/latest/about.html#about>`_
