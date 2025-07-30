@@ -1,3 +1,11 @@
+全志_A23
+=========
+
+概述 全志A23解决方案合集
+
+.. toctree::
+  :maxdepth: 2
+
 A23_中国移动营业厅业务终端机/contents
 A23_游戏机方案1/contents
 A23_游戏机方案2/contents
