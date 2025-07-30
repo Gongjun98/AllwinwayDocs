@@ -7,7 +7,6 @@
   :maxdepth: 2
   
   A20_广告机_STD5/contents
-  H2_医疗用蓝牙数据采集器板卡方案1/contents
   A20_3G广告机YUESHI/contents
   A20_EBOX_STD5_V13/contents
   A20_POE供电VOIP电话板卡方案/contents
@@ -43,3 +42,4 @@
   A20带3G红外触摸屏LVDS屏RFID条形码快递机物流行业主控板1方案/contents
   A20带3G红外触摸屏LVDS屏RFID条形码快递机物流行业主控板2方案/contents
   A20手持税控机方案/contents
+  H2_医疗用蓝牙数据采集器板卡方案1/contents
