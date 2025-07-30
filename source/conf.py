@@ -47,13 +47,17 @@ if on_rtd:
     #
     #git_lfs.fetch_urls = _patched_fetch_urls
     #git_lfs.fetch(PROJECT_ROOT_DIR)
-
-    if not os.path.exists('./git-lfs'):
-        os.system('wget https://github.com/git-lfs/git-lfs/releases/download/v2.7.1/git-lfs-linux-amd64-v2.7.1.tar.gz')
-        os.system('tar xvfz git-lfs-linux-amd64-v2.7.1.tar.gz')
-        os.system('./git-lfs install')  # make lfs available in current repository
-        os.system('./git-lfs fetch')  # download content from remote
-        os.system('./git-lfs checkout')  # make local files to have the real content on them
+    if not os.path.exists('./git-lfs/git-lfs'):
+        print("设置Git LFS...")
+        os.makedirs('./git-lfs', exist_ok=True)
+        os.system('wget https://github.com/git-lfs/git-lfs/releases/download/v3.4.0/git-lfs-linux-amd64-v3.4.0.tar.gz')
+        os.system('tar xzf git-lfs-linux-amd64-v3.4.0.tar.gz -C ./git-lfs --strip-components=1')
+        os.system('chmod +x ./git-lfs/git-lfs')
+        os.system('./git-lfs/git-lfs install')
+        os.system('./git-lfs/git-lfs fetch')
+        os.system('./git-lfs/git-lfs checkout')
+        os.system('rm git-lfs-linux-amd64-v3.4.0.tar.gz')
+        print("Git LFS 设置完成")
 
 else:
     render_examples = True
