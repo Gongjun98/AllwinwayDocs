@@ -48,16 +48,16 @@ if on_rtd:
     #git_lfs.fetch_urls = _patched_fetch_urls
     #git_lfs.fetch(PROJECT_ROOT_DIR)
     if not os.path.exists('./git-lfs/git-lfs'):
-        print("设置Git LFS...")
-        os.makedirs('./git-lfs', exist_ok=True)
-        os.system('wget https://github.com/git-lfs/git-lfs/releases/download/v3.4.0/git-lfs-linux-amd64-v3.4.0.tar.gz')
-        os.system('tar xzf git-lfs-linux-amd64-v3.4.0.tar.gz -C ./git-lfs --strip-components=1')
-        os.system('chmod +x ./git-lfs/git-lfs')
-        os.system('./git-lfs/git-lfs install')
-        os.system('./git-lfs/git-lfs fetch')
-        os.system('./git-lfs/git-lfs checkout')
-        os.system('rm git-lfs-linux-amd64-v3.4.0.tar.gz')
-        print("Git LFS 设置完成")
+      print("脡猫脰脙Git LFS...")
+      os.makedirs('./git-lfs', exist_ok=True)
+      os.system('wget https://github.com/git-lfs/git-lfs/releases/download/v3.4.0/git-lfs-linux-amd64-v3.4.0.tar.gz')
+      os.system('tar xzf git-lfs-linux-amd64-v3.4.0.tar.gz -C ./git-lfs --strip-components=1')
+      os.system('chmod +x ./git-lfs/git-lfs')
+      os.system('./git-lfs/git-lfs install')
+      os.system('./git-lfs/git-lfs fetch')
+      os.system('./git-lfs/git-lfs checkout')
+      os.system('rm git-lfs-linux-amd64-v3.4.0.tar.gz')
+      print("Git LFS 脡猫脰脙脥锚鲁脡")
 
 else:
     render_examples = True
@@ -95,7 +95,7 @@ language = 'zh_CN'
 import sphinx_rtd_theme
 html_theme = "sphinx_rtd_theme"
 #html_static_path = ['_static']
-html_extra_path = ['.']  # 确保根目录被包含
+html_extra_path = ['.']  # 脠路卤拢赂霉脛驴脗录卤禄掳眉潞卢
 html_search_language = 'zh'
 
 print(sys.executable)
