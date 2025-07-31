@@ -14,4 +14,6 @@ allwinner
   allwinner_A50/contents
   allwinner_A64/contents
   allwinner_A83T/contents
+  allwinner_A133R818/contents
   allwinner_H2H3H6H8/contents
+  allwinner_R331R333/contents
