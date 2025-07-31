@@ -17,3 +17,4 @@ allwinner
   allwinner_A133R818/contents
   allwinner_H2H3H6H8/contents
   allwinner_R331R333/contents
+  allwinner_T113F133/contents
