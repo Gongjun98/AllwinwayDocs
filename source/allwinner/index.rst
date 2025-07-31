@@ -21,3 +21,4 @@ allwinner
   allwinner_V3S/contents
   allwinner_V853SV851/contents
   allwinner_T507/contents
+  allwinner_V536/contents
