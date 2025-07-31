@@ -66,7 +66,7 @@ else:
 #extensions = ['myst_parser','sphinx_markdown_tables']
 extensions = [
     'myst_parser',
-    'sphinx_markdown_tables'
+    'sphinx_markdown_tables',
     'sphinx.ext.intersphinx',
     #"sphinxcontrib.mermaid",
     #"sphinx_copybutton",
