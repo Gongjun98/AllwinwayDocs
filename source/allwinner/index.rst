@@ -19,3 +19,4 @@ allwinner
   allwinner_R331R333/contents
   allwinner_T113F133/contents
   allwinner_V3S/contents
+  allwinner_V853SV851/contents
