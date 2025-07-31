@@ -11,3 +11,4 @@ allwinner
   allwinner_A31S/contents
   allwinner_A33R16/contents
   allwinner_A40i/contents
+  allwinner_A50/contents
