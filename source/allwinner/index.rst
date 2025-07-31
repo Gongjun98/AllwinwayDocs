@@ -8,3 +8,4 @@ allwinner
   allwinner_A10/contents
   allwinner_A20/contents
   allwinner_A23/contents
+  allwinner_A31S/contents

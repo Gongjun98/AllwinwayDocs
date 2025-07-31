@@ -99,12 +99,6 @@ html_theme = "sphinx_rtd_theme"
 html_extra_path = ['.']  # È·±£¸ùÄ¿Â¼±»°üº¬
 html_search_language = 'zh'
 
-# 配置其他RTD项目的映射
-intersphinx_mapping = {
-    'allwinner2': ('https://allwinwaydocs2.readthedocs.io/zh-cn/latest/', None),
-    #'hardware': ('https://hardware-project.readthedocs.io/en/latest/', None),
-    #'software': ('https://software-guide.readthedocs.io/en/latest/', None),
-}
 
 # 超时设置（RTD免费版网络可能较慢）
 intersphinx_timeout = 10

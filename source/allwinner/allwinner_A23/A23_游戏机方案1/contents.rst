@@ -3,11 +3,7 @@ A23_游戏机方案1
 
 .. image:: ./A23_核心板构架游戏机方案5_单正面.JPG
 
-.. image:: ./A23_核心板构架游戏机方案5_单正面_1.jpg
-
 .. image:: ./A23_核心板构架游戏机方案5_双拼正面.JPG
-
-.. image:: ./A23_核心板构架游戏机方案5_双拼正面_1.jpg
 
 .. image:: ./A23_核心板构架游戏机方案5_整机正面1.JPG
 
@@ -19,16 +15,10 @@ A23_游戏机方案1
 
 .. image:: ./A23_核心板构架游戏机方案5_单背面.JPG
 
-.. image:: ./A23_核心板构架游戏机方案5_单背面_1.jpg
-
 .. image:: ./A23_核心板构架游戏机方案5_双拼背面.JPG
-
-.. image:: ./A23_核心板构架游戏机方案5_双拼背面_1.jpg
 
 .. image:: ./A23_核心板构架游戏机方案5_整板背面.JPG
 
 .. image:: ./A23_核心板构架游戏机方案5_正反面.JPG
-
-.. image:: ./A23_核心板构架游戏机方案5_正反面_1.jpg
 
 `Detail About <https://allwinwaydocs.readthedocs.io/zh-cn/latest/about.html#about>`_
