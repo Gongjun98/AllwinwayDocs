@@ -16,11 +16,11 @@
    A33_医疗数据采集终端板卡方案/contents
    A33_医疗用触摸HMI人机界面板卡方案/contents
    A33_卫浴人机界面主控板1/contents
-   A33_可视对讲门铃室内机方案10/contents
+   A33_可视对讲门铃梯口机主控板3方案/contents
    A33_可视对讲门铃室内机方案7/contents
    A33_可视对讲门铃室内机方案8/contents
-   A33_可视对讲门铃梯口机主控板3方案/contents
    A33_可视对讲门铃管理机机方案9/contents
+   A33_可视对讲门铃室内机方案10/contents
    A33_多媒体网络视频电话机板卡方案/contents
    A33_多媒体网络视频电话机板卡方案2/contents
    A33_多媒体网络视频电话机板卡方案3/contents
@@ -28,7 +28,6 @@
    A33_家居机器人显示面板主板4方案/contents
    A33_家用PM25环境测试仪板卡方案/contents
    A33_工业人机界面主控板方案5/contents
-   A33_广告机板卡1/contents
    A33_手持汽车遥控钥匙全自动加解密配置终端1/contents
    A33_指静脉寄存柜主控板卡方案2/contents
    A33_指静脉门禁主控板1方案/contents
@@ -38,15 +37,21 @@
    A33_汽车CAN总线诊断仪主控板方案/contents
    A33_汽车头枕板卡方案/contents
    A33_汽车用人脸识别和辅助告警板卡方案/contents
-   A33_游戏机IO板方案10/contents
-   A33_游戏机IO板方案11/contents
    A33_游戏机IO板方案4/contents
    A33_游戏机IO板方案5/contents
    A33_游戏机IO板方案6/contents
    A33_游戏机IO板方案7/contents
    A33_游戏机IO板方案8/contents
    A33_游戏机IO板方案9/contents
+   A33_游戏机IO板方案10/contents
+   A33_游戏机IO板方案11/contents
    A33_游戏机方案1/contents
+   A33_游戏机方案2/contents
+   A33_游戏机方案4_分体式/contents
+   A33_游戏机方案5_分体式/contents
+   A33_游戏机方案6_分体式/contents
+   A33_游戏机方案7_分体式/contents
+   A33_游戏机方案8_分体式/contents
    A33_游戏机方案10_核心板方式/contents
    A33_游戏机方案11_分体式/contents
    A33_游戏机方案12_分体式/contents
@@ -56,12 +61,7 @@
    A33_游戏机方案16_分体式_带MIC/contents
    A33_游戏机方案17_分体式/contents
    A33_游戏机方案18_分体式/contents
-   A33_游戏机方案2/contents
-   A33_游戏机方案4_分体式/contents
-   A33_游戏机方案5_分体式/contents
-   A33_游戏机方案6_分体式/contents
-   A33_游戏机方案7_分体式/contents
-   A33_游戏机方案8_分体式/contents
+   A33_广告机板卡1/contents
    A33_电梯广告机主控板2方案_BITINC/contents
    A33_电梯广告机主控板3方案_CHUOLI/contents
    A33_翻译棒主控板卡方案1/contents
