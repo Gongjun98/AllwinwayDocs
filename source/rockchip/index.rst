@@ -6,4 +6,4 @@ Rockchip
   :numbered:
   
   rk3128/contents
-  
+  rk3229/contents
