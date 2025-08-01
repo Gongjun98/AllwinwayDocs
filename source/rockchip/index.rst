@@ -8,3 +8,4 @@ Rockchip
   rk3128/contents
   rk3229/contents
   rk3288/contents
+  rk3399/contents
