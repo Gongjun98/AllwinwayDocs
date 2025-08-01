@@ -14,6 +14,7 @@ Welcome to AllwinwayProductsDocs
    rockchip/index
    qcom/index
    hisi/index
+   mstar/index
    about
 
 Indices and tables
