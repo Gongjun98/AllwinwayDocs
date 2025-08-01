@@ -1,9 +1,8 @@
-MStar
+Ingenic
 ===========
 
 .. toctree::
   :maxdepth: 2
   :numbered:
   
-  ssd202/contents
-  ssd212/contents
+  t31/contents

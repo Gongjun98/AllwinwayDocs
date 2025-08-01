@@ -15,6 +15,7 @@ Welcome to AllwinwayProductsDocs
    qcom/index
    hisi/index
    mstar/index
+   jz/index
    about
 
 Indices and tables
