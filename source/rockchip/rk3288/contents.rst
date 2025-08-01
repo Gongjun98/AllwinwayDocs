@@ -1,11 +1,9 @@
 RK3288
-=========
-
-概述 瑞星微RK3288方案介绍
+==================
 
 .. toctree::
-  :maxdepth: 2
-  
+   :maxdepth: 2
+
    RK3288_人脸识别门禁机主控板5方案/contents
    RK3288_人脸识别门禁机主控板6方案/contents
    RK3288_广告机_JMOLCD/contents
