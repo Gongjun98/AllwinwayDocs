@@ -16,6 +16,7 @@ Welcome to AllwinwayProductsDocs
    hisi/index
    mstar/index
    jz/index
+   rpi/contents
    about
 
 Indices and tables
