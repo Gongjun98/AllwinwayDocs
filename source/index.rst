@@ -11,6 +11,7 @@ Welcome to AllwinwayProductsDocs
    :caption: Contents:
 
    allwinner/index
+   rockchip/index
    about
 
 Indices and tables
