@@ -13,6 +13,7 @@ Welcome to AllwinwayProductsDocs
    allwinner/index
    rockchip/index
    qcom/index
+   hisi/index
    about
 
 Indices and tables

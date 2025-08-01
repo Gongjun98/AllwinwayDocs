@@ -1,4 +1,4 @@
-allwinner
+Allwinner
 ==========
 
 .. toctree::
